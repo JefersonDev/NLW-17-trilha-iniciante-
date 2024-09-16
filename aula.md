@@ -9,7 +9,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 - [x] Comentários
 - [x] Declaração de variáveis (const, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
 - [x] Tipos de dados (string, number, boolean)
 - [x] Estrutura de dados (functions, object, array)
 - [x] Controle de fluxo (if/else)
@@ -44,7 +44,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+- [x] Métodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos:
 
